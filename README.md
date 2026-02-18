@@ -1,6 +1,7 @@
 # Hi there, I'm Md. Sakibur Rahman 👋
 ### **Software Engineer | Backend Developer | AI & Machine Learning Researcher**
 
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ/lszEBQCzShhc0/giphy.gif
 <!-- <p align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ/lszEBQCzShhc0/giphy.gif" width="300" align="right" />
 </p> -->
@@ -20,10 +21,11 @@ I am a Software Engineering graduate from **Daffodil International University** 
 
 | **Category** | **Technologies & Frameworks** |
 | :--- | :--- |
-| **Backend** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![REST API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) |
-| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Backend** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![REST API](https://img.shields.io/badge/RESTful_API-02569B?style=for-the-badge&logo=insomnia&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 
 ---
 
