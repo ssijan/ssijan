@@ -1,7 +1,7 @@
 # Hi there, I'm Md. Sakibur Rahman 👋 
 ### Software Engineer | Python & Django Enthusiast | Competitive Programmer
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ/lszEBQCzShhc0/giphy.gif" align="right" width="280" />
+<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ/lszEBQCzShhc0/giphy.gif" align="right" width="280" /> -->
 
 - 🎓 **Recent Graduate**: B.Sc. in CSE from Daffodil International University (CGPA 3.75/4.00) 
 - 🐍 **Backend Specialist**: Deeply passionate about Python, Django, and RESTful APIs 
