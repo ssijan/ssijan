@@ -1,46 +1,63 @@
-# Hi there, I'm Md. Sakibur Rahman 👋 
-### Software Engineer | Python & Django Enthusiast | Competitive Programmer
+# 👨‍💻 Md. Sakibur Rahman
+### **Software Engineer | Backend Architect | AI & Machine Learning Researcher**
 
-<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ/lszEBQCzShhc0/giphy.gif" align="right" width="280" /> -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ/lszEBQCzShhc0/giphy.gif" align="right" width="280" />
 
-- 🎓 **Recent Graduate**: B.Sc. in CSE from Daffodil International University (CGPA 3.75/4.00) 
-- 🐍 **Backend Specialist**: Deeply passionate about Python, Django, and RESTful APIs 
-- 🧠 **AI/ML Researcher**: Experienced in CNN-based medical image detection 
-- 🏆 **Problem Solver**: 2,000+ problems solved across Codeforces, CodeChef, and LeetCode 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sakibur-rahman-00a781357/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssijan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahman15-5460@diu.edu.bd)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 📖 Executive Summary
+[cite_start]I am a Software Engineering graduate from **Daffodil International University** with a B.Sc. in CSE (CGPA 3.75/4.00)[cite: 5, 11]. [cite_start]I specialize in building robust, scalable backend systems using **Python and Django** while integrating advanced **Machine Learning** capabilities to solve complex problems[cite: 5, 8]. 
 
-| Category | Technologies |
+[cite_start]My engineering approach is defined by a rigorous problem-solving mindset, backed by solving over **2,000 competitive programming problems** across Codeforces, LeetCode, and CodeChef[cite: 6].
+
+---
+
+## 🤖 AI & Machine Learning Specialization
+I focus on the intersection of Deep Learning and Computer Vision to drive innovation in automated diagnostics.
+
+* [cite_start]**CNN-based CT Scan Disease Detection**: Engineered a Convolutional Neural Network (CNN) to detect diseases within CT scan imagery[cite: 6].
+* [cite_start]**Medical Imaging Optimization**: Applied image processing techniques to enhance detection accuracy for clinical simulations[cite: 8].
+
+### **AI/ML Toolkit**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+---
+
+## 🛠️ Core Competencies
+
+| Domain | Technology Stack |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| **Backend** | ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![REST API](https://img.shields.io/badge/rest_api-%23005A9C.svg?style=for-the-badge&logo=google-cloud&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| **Backend** | [cite_start]Python, Django, RESTful APIs [cite: 5] |
+| **Frontend** | [cite_start]React, JavaScript, HTML5, CSS3 [cite: 5] |
+| **Databases** | [cite_start]MySQL, PostgreSQL [cite: 5] |
+| **Problem Solving** | [cite_start]Data Structures & Algorithms [cite: 6] |
+| **Tools** | [cite_start]Git, GitHub [cite: 14] |
 
 ---
 
-### 📈 GitHub Stats & Coding Activity
+## 🏆 Algorithmic Excellence
+Problem-solving is at the core of my development philosophy.
+* [cite_start]**Total Problems Solved**: 2,000+ [cite: 6]
+* [cite_start]**Platforms**: Codeforces, CodeChef, LeetCode [cite: 6]
+* [cite_start]**Key Strengths**: Dynamic Programming, Graph Theory, and Algorithm Optimization[cite: 6, 7].
 
+---
+
+## 📊 Impact Metrics
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssijan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssijan&layout=compact&langs_count=7&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssijan&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssijan&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🚀 Highlighted Project
-   **CT Scan Disease Detection (CNN-based)** 
-- Developed a deep learning model to identify diseases in medical imaging.
-- Tech: Python, TensorFlow/Keras, OpenCV.
+## 📬 Contact Information
+* [cite_start]**Email**: [rahman15-5460@diu.edu.bd](mailto:rahman15-5460@diu.edu.bd) [cite: 12]
+* [cite_start]**Phone**: +8801708366765 [cite: 13]
+* **LinkedIn**: [Md. [cite_start]Sakibur Rahman](https://www.linkedin.com/in/md-sakibur-rahman-00a781357/) [cite: 15]
 
 ---
-
-### 📫 Connect with me
-- 📧 **Email**: [rahman15-5460@diu.edu.bd](mailto:rahman15-5460@diu.edu.bd)
-- 💼 **LinkedIn**: [Md.Sakibur Rahman](https://www.linkedin.com/in/md-sakibur-rahman-00a781357/) 
-- 📞 **Phone**: +8801708366765
-
----
-*“I thrive in fast-paced environments and enjoy tackling challenges beyond my comfort zone.”* 
