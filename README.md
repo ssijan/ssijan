@@ -3,10 +3,10 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ there/lszEBQCzShhc0/giphy.gif" align="right" width="300" />
 
-- [cite_start]🎓 **Recent Graduate**: B.Sc. in CSE from Daffodil International University (CGPA 3.75/4.00) [cite: 5, 11]
-- [cite_start]🐍 **Backend Specialist**: Deeply passionate about Python, Django, and RESTful APIs [cite: 5]
-- [cite_start]🧠 **AI/ML Researcher**: Experienced in CNN-based medical image detection 
-- [cite_start]🏆 **Problem Solver**: 2,000+ problems solved across Codeforces, CodeChef, and LeetCode 
+- 🎓 **Recent Graduate**: B.Sc. in CSE from Daffodil International University (CGPA 3.75/4.00) 
+- 🐍 **Backend Specialist**: Deeply passionate about Python, Django, and RESTful APIs 
+- 🧠 **AI/ML Researcher**: Experienced in CNN-based medical image detection 
+- 🏆 **Problem Solver**: 2,000+ problems solved across Codeforces, CodeChef, and LeetCode 
 
 ---
 
@@ -31,16 +31,16 @@
 ---
 
 ### 🚀 Highlighted Project
-[cite_start]**CT Scan Disease Detection (CNN-based)** 
+   **CT Scan Disease Detection (CNN-based)** 
 - Developed a deep learning model to identify diseases in medical imaging.
 - Tech: Python, TensorFlow/Keras, OpenCV.
 
 ---
 
 ### 📫 Connect with me
-- [cite_start]📧 **Email**: [rahman15-5460@diu.edu.bd](mailto:rahman15-5460@diu.edu.bd) [cite: 12]
-- 💼 **LinkedIn**: [Md. [cite_start]Sakibur Rahman](https://www.linkedin.com/in/md-sakibur-rahman-00a781357/) [cite: 15]
-- [cite_start]📞 **Phone**: +8801708366765 [cite: 13]
+- 📧 **Email**: [rahman15-5460@diu.edu.bd](mailto:rahman15-5460@diu.edu.bd)
+- 💼 **LinkedIn**: [Md. [cite_start]Sakibur Rahman](https://www.linkedin.com/in/md-sakibur-rahman-00a781357/) 
+- 📞 **Phone**: +8801708366765
 
 ---
-[cite_start]*“I thrive in fast-paced environments and enjoy tackling challenges beyond my comfort zone.”* [cite: 7]
+*“I thrive in fast-paced environments and enjoy tackling challenges beyond my comfort zone.”* 
