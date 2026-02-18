@@ -1,9 +1,9 @@
 # Hi there, I'm Md. Sakibur Rahman 👋
 ### **Software Engineer | Backend Developer | AI & Machine Learning Researcher**
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ/lszEBQCzShhc0/giphy.gif" width="300" align="right" />
-</p>
+</p> -->
 
 ---
 
@@ -50,9 +50,6 @@ I am a Software Engineering graduate from **Daffodil International University** 
   
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ssijan&layout=compact&langs_count=7&theme=radical" alt="Top Languages" />
 </p>
-
-### 📈 Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssijan&theme=radical&hide_border=true)
 
 ### 📈 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssijan&theme=radical&hide_border=true)
