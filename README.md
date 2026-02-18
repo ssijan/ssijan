@@ -1,5 +1,5 @@
 # Hi there, I'm Md. Sakibur Rahman 👋
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ/lszEBQCzShhc0/giphy.gif" align="right" width="300" />
+<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ/lszEBQCzShhc0/giphy.gif" align="right" width="300" /> -->
 ### **Software Engineer | Backend Developer | AI & Machine Learning Researcher**
 
 ---
