@@ -5,10 +5,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ/lszEBQCzShhc0/giphy.gif" width="300" align="right" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sakibur-rahman-00a781357/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssijan)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahman15-5460@diu.edu.bd)
-
 ---
 
 ## 🚀 About Me
@@ -48,10 +44,15 @@ I am a Software Engineering graduate from **Daffodil International University** 
 ---
 
 ## 📊 Impact & Activity Metrics
+
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssijan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssijan&layout=compact&langs_count=7&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ssijan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Sakibur's GitHub Stats" />
+  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ssijan&layout=compact&langs_count=7&theme=radical" alt="Top Languages" />
 </p>
+
+### 📈 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssijan&theme=radical&hide_border=true)
 
 ### 📈 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssijan&theme=radical&hide_border=true)
@@ -59,10 +60,8 @@ I am a Software Engineering graduate from **Daffodil International University** 
 ---
 
 ## 📫 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/md-sakibur-rahman-00a781357/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md. Sakibur Rahman" height="30" width="40" /></a>
-<a href="https://github.com/ssijan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ssijan" height="30" width="40" /></a>
-<a href="mailto:rahman15-5460@diu.edu.bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="rahman15-5460@diu.edu.bd" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sakibur-rahman-00a781357/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssijan)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahman15-5460@diu.edu.bd)
 
 ---
